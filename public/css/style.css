@@ -11,3 +11,8 @@ html {
   -moz-box-sizing: inherit;
   -webkit-box-sizing: inherit;
 }
+
+#hero-section {
+  width: 100vw;
+  height: 100vh;
+}
