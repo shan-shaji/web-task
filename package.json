@@ -1,12 +1,12 @@
 {
   "name": "kite-website",
   "version": "1.0.0",
-  "description": "",
+  "description": "Thanks for downloading this template!",
   "main": "index.js",
   "scripts": {
     "dev": "lite-server"
   },
-  "author": "Shan Shaji",
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "lite-server": "^2.6.1"
