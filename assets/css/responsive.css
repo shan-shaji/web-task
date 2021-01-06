@@ -101,9 +101,9 @@
     top: 32%;
   }
   #main-slide .carousel-item .carousel-caption .heading {
-    font-size: 20px;
+    font-size: 50px;
   }
-  #main-slide .carousel-item .carousel-caption p {
+  #main-slide .carousel-item .carousel-caption b {
     font-size: 13px;
   }
   .countdown-timer .heading-count h2 {
@@ -165,12 +165,26 @@
     top: 22%;
   }
   #main-slide .carousel-item .carousel-caption .heading {
-    font-size: 14px;
+    font-size: 50px;
     margin-top: 5px;
   }
-  #main-slide .carousel-item .carousel-caption p {
+  #main-slide .carousel-item .carousel-caption b {
     font-size: 13px;
   }
+
+  #main-slide .carousel-item .carousel-caption .btn {
+    margin: 10px;
+  }
+
+  #main-slide .carousel-item img {
+    background-size: cover;
+  }
+
+  .carousel-control-next,
+  .carousel-control-prev {
+    display: none;
+  }
+
   #main-slide .carousel-indicators {
     display: none;
   }
